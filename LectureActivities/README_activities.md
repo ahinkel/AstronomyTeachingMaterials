@@ -18,3 +18,14 @@ for each cluster.  Older clusters have had most or all of their most massive
 clusters still have some of these stars.  
 
 Students are asked to utilize this data to show which cluster is older.
+
+
+## ChallengeProblem0
+
+A quick check of understanding regarding moon phases, and how the two-dimensional 
+drawings normally done in class tend to hide some of the minutiae of moon phases.
+
+
+## ChallengeProblem3_perspective
+
+
