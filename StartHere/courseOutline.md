@@ -2,6 +2,10 @@
 
 coming soon...
 
+## What you'll need:
+
+
+## Course Schedule:
 
 ### Unit 1:  Cosmic Context:  Humanity's Place in the Cosmos
 - Reading:
