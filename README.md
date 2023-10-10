@@ -1,11 +1,13 @@
 # Astronomy Teaching Materials
 Some teaching materials I have developed for a college Introductory Astronomy course aimed at developing the data and programming skills of first- and second-year students.  Raw datasets are available in this repository and are also available on Kaggle.
 
-Please see the StartHere folder to get started.
-
 More info is available in README files in each directory/folder.
 
 **More info TBA**
+
+
+## Quick Start:
+Please see the [StartHere](https://github.com/ahinkel/AstronomyTeachingMaterials/tree/5607e22864651c8ee0b0ce110b6d0d033cd63f79/StartHere) folder to get started.
 
 
 ## Background:
