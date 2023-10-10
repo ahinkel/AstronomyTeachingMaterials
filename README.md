@@ -5,7 +5,8 @@ Please see the StartHere folder to get started.
 
 More info is available in README files in each directory/folder.
 
-More info TBA
+**More info TBA**
+
 
 ## Background:
 Data from the Gaia Space Telescope[[1]](https://doi.org/10.1051/0004-6361/201629272) has revolutionized the astronomy community's understanding of our Milky Way Galaxy [[2]](https://doi.org/10.1016/j.ppnp.2021.103904) thanks to its observations of billions of stars, but relatively little has been written on the tremendous opportunity to use Gaia data in the introductory classroom as an inclusive way of preparing future scientists.  Indeed, the Gaia data is freely available and presents an excellent opportunity to introduce programming and data science to *all* students, regardless of intended major, socioeconomic background, etc.  Perhaps more importantly, a course centered on astronomy and Gaia data with absolutely no prerequisites can help to catch aspiring scientists who may not otherwise be introduced to the skills and opportunities they need to participate in the high-impact practice of undergraduate research.  
@@ -18,8 +19,7 @@ With earlier, course-based research experiences shown to increase retention and 
 In particular, a data science component in such a course offers students the chance to develop widely-applicable skills, as data analysis is necessary for any form of science [[11]](https://www.amstat.org/docs/default-source/amstat-documents/admi2016_dichevetall.pdf) and many modern jobs. 
 
 
-
 ## Funding and Acknowledgements:
-This open-source repositroy of course material was created with support from the following:
+This open-source repository of course material was created with support from the following:
 - NASA KY / Kentucky Space Grant Consortium
 - Thomas More University
