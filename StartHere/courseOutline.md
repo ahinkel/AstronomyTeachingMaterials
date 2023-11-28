@@ -5,7 +5,7 @@ coming soon...
 ## What you'll need:
 - Textbook:
 - Access to a computer with internet connection and Microsoft Excel
-- Kaggle account: [Kaggle](https://www.kaggle.com)
+- [Kaggle account](https://www.kaggle.com)
 
 ## Course Schedule:
 
