@@ -12,9 +12,9 @@ coming soon...
 ### Unit 1:  Cosmic Context:  Humanity's Place in the Cosmos
 - Reading: Chapter 1 of *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal
 - Written Homework: 
-- Data Assignment: 
-- Data: 
-- Template: 
+- Data Assignment: [Lab_ScaleModelSpreadsheetIntro.pdf](/Labs/ScaleModelExcelTutorial/Lab_ScaleModelSpreadsheetIntro.pdf)
+- Data: (see template)
+- Template: [scaleModelExcelTemplate.xlsx](/Labs/ScaleModelExcelTutorial/scaleModelExcelTemplate.xlsx)
 
 
 ### Unit 2:  Testing format.... TBD
