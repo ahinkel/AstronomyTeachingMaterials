@@ -8,5 +8,8 @@ The activity prompt.
 ## HR_diagram_template.xlsx
 A template spreadsheet for the activity. 
 
+## twoclustercmd-template.ipynb
+A template python notebook that students can complete to create a Color-Magnitude Diagram.
+
 ## \*.csv
 Raw data files from Gaia.  For more, please see: https://www.kaggle.com/datasets/austinhinkel/gaia-dr3-data-for-comparing-two-star-clusters
