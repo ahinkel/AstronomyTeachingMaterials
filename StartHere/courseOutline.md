@@ -70,6 +70,7 @@ coming soon...
 
 ### Final Project Introduced:
 - Project Assignment: (light pollution interdisciplinary project, TBA)
+- Undergraduate research 101
 
 
 ### Unit 8:  Our Solar System's Star: The Sun
