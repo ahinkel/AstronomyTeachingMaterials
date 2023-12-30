@@ -7,7 +7,7 @@ More info is available in README files in each directory/folder.
 
 
 ## Quick Start:
-Please see the [StartHere](https://github.com/ahinkel/AstronomyTeachingMaterials/tree/5607e22864651c8ee0b0ce110b6d0d033cd63f79/StartHere) folder to get started.  It contains an outline of the course content.
+Please see the [StartHere](StartHere/courseOutline.md) folder to get started.  It contains an outline of the course content.
 
 
 ## Background:
