@@ -3,7 +3,7 @@ Some teaching materials I have developed for a college Introductory Astronomy co
 
 More info is available in README files in each directory/folder.
 
-**More info TBA**
+**This course is under development in the Spring 2024 semester.  More info TBA**
 
 
 ## Quick Start:
