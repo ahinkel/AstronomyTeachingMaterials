@@ -24,3 +24,7 @@ With earlier, course-based research experiences shown to increase retention and 
 This open-source repository of course material was created with support from the following:
 - NASA KY / Kentucky Space Grant Consortium
 - Thomas More University
+
+
+## License Info:
+All software is available under an MIT License, while all of my course materials are available under a [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/) unless otherwise noted.
