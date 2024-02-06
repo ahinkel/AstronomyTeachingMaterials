@@ -10,8 +10,7 @@
 -
 
  \ 
- \
- \ 
+
 
 # Assignments, Organized by Astronomy Topics
 
