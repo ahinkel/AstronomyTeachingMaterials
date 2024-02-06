@@ -9,6 +9,10 @@
 ## For loops and if statements: 
 -
 
+
+
+
+
 # Assignments, Organized by Astronomy Topics
 
 ## Scale Models:
@@ -19,3 +23,6 @@
 
 ## Star Clusters:
 - 
+
+## The Milky Way:
+-
