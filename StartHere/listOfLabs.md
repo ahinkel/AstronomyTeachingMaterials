@@ -32,10 +32,11 @@
 
 
 
-testing...
+testing... work in progress...
 
 
 | Topic | Assignment | Notebook | Data Set |
 |-------|------------|----------|----------|
 |Scale Models| test | none | none |
+|Color-Magnitude Diagrams|test|test|test|
 |The Milky Way| test |test|test|
