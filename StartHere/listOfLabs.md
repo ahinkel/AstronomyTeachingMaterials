@@ -28,3 +28,14 @@
 
 ## The Milky Way:
 - [Map the Milky Way](https://www.kaggle.com/code/austinhinkel/plottingtutorial-mapthelocalmilkyway)
+
+
+
+
+testing...
+
+
+| Topic | Assignment | Notebook | Data Set |
+|-------|------------|----------|----------|
+|Scale Models| test | none | none |
+|The Milky Way| test |test|test|
