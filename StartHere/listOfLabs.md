@@ -11,4 +11,4 @@ testing... work in progress...
 |The Milky Way| [Map the Milky Way Assignment](../Labs/MapOfLocalGalaxy/Lab_MapNearbyMilkyWay.pdf) | [Map the Milky Way Template Notebook](https://www.kaggle.com/code/austinhinkel/plottingtutorial-mapthelocalmilkyway) |[Map the Milky Way Data Set](https://www.kaggle.com/datasets/austinhinkel/galacticcoordswithgaia)|
 | Exoplanet Catalog Search | TBA | TBA | TBA |
 | Control Flow | TBA | TBA | TBA |
-|||||
+| Random Walk | TBA | TBA | TBA |
