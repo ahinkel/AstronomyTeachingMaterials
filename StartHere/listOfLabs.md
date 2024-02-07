@@ -39,5 +39,5 @@ testing... work in progress...
 |-------|------------|----------|----------|
 |Scale Models| test | none | none |
 |Color-Magnitude Diagrams| TBA | [Star Cluster Notebook Template](https://www.kaggle.com/code/austinhinkel/twoclustercmd-template) | [Star Cluster Data Set](https://www.kaggle.com/datasets/austinhinkel/gaia-dr3-data-for-comparing-two-star-clusters) |
-|The Milky Way| test | [Map the Milky Way Template Notebook](https://www.kaggle.com/code/austinhinkel/plottingtutorial-mapthelocalmilkyway) |[Map the Milky Way Data Set](https://www.kaggle.com/datasets/austinhinkel/galacticcoordswithgaia)|
+|The Milky Way| [ttttt](Labs/MapOfLocalGalaxy/Lab_MapNearbyMilkyWay.pdf) | [Map the Milky Way Template Notebook](https://www.kaggle.com/code/austinhinkel/plottingtutorial-mapthelocalmilkyway) |[Map the Milky Way Data Set](https://www.kaggle.com/datasets/austinhinkel/galacticcoordswithgaia)|
 |||||
