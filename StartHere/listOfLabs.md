@@ -6,7 +6,7 @@ testing... work in progress...
 | Topic | Assignment | Notebook | Data Set |
 |-------|------------|----------|----------|
 |Scale Models| [Scale Model Assignment](../Labs/ScaleModelExcelTutorial/Lab_ScaleModelSpreadsheetIntro.pdf) | none | none |
-| Kepler's Laws | TBA | none | none |
+| Kepler's Laws (Moons of Jupiter) | TBA | none | none |
 | Intro to Python | [Intro to Python Assignment](../Labs/introToPython/Lab_introPython.pdf) | [Intro Notebook](Labs/introToPython/intropythontutorial.ipynb) | none |
 | Control Flow with the Collatz Conjecture | [Control Flow Assignment](../Labs/ControlFlowCollatz/Lab_controlFlowCollatz.pdf) | none | none |
 | Random Walk | TBA | TBA | TBA |
