@@ -13,8 +13,10 @@ testing... work in progress...
 |The Milky Way| [Map the Milky Way Assignment](../Labs/MapOfLocalGalaxy/Lab_MapNearbyMilkyWay.pdf) | [Map the Milky Way Template Notebook](https://www.kaggle.com/code/austinhinkel/plottingtutorial-mapthelocalmilkyway) |[Map the Milky Way Data Set](https://www.kaggle.com/datasets/austinhinkel/galacticcoordswithgaia)|
 |Color-Magnitude Diagrams| [Color Magnitude Diagram Assignment](../Labs/GaiaColorMagnitudeLab/Lab_TwoClustersCMD.pdf) | [Star Cluster Notebook Template](https://www.kaggle.com/code/austinhinkel/twoclustercmd-template) | [Star Cluster Data Set](https://www.kaggle.com/datasets/austinhinkel/gaia-dr3-data-for-comparing-two-star-clusters) |
 | Exoplanet Catalog Search | TBA | TBA | TBA |
-
-
+| TBA | TBA | TBA | TBA |
+| TBA | TBA | TBA | TBA |
+| TBA | TBA | TBA | TBA |
+| TBA | TBA | TBA | TBA |
 
 
 
