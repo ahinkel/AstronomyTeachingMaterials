@@ -3,7 +3,7 @@
 testing... work in progress...
 
 
-| Topic | Assignment | Notebook | Data Set |
+| Topic | Assignment | Notebook/Spreadsheet Template | Data Set |
 |-------|------------|----------|----------|
 |Scale Models| [Scale Model Assignment](../Labs/ScaleModelExcelTutorial/Lab_ScaleModelSpreadsheetIntro.pdf) | none | none |
 | Kepler's Laws (Moons of Jupiter) | TBA | none | none |
