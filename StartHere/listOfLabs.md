@@ -10,11 +10,11 @@ testing... work in progress...
 | Intro to Python | [Intro to Python Assignment](../Labs/introToPython/Lab_introPython.pdf) | [Intro Notebook](../Labs/introToPython/intropythontutorial.ipynb) | none |
 | Control Flow with the Collatz Conjecture | [Control Flow Assignment](../Labs/ControlFlowCollatz/Lab_controlFlowCollatz.pdf) | none | none |
 | Random Walk | TBA | TBA | TBA |
-| Stellar Evolution and the Interstellar Medium | TBA | TBA | none |
+| Stellar Evolution and the Interstellar Medium | TBA | [Galactic Gas Cycle Simulation Notebook](https://www.kaggle.com/code/austinhinkel/stellarlifecyclessimulation) | none |
 |The Milky Way| [Map the Milky Way Assignment](../Labs/MapOfLocalGalaxy/Lab_MapNearbyMilkyWay.pdf) | [Map the Milky Way Template Notebook](https://www.kaggle.com/code/austinhinkel/plottingtutorial-mapthelocalmilkyway) |[Map the Milky Way Data Set](https://www.kaggle.com/datasets/austinhinkel/galacticcoordswithgaia)|
 |Color-Magnitude Diagrams| [Color Magnitude Diagram Assignment](../Labs/GaiaColorMagnitudeLab/Lab_TwoClustersCMD.pdf) | [Star Cluster Notebook Template](https://www.kaggle.com/code/austinhinkel/twoclustercmd-template) | [Star Cluster Data Set](https://www.kaggle.com/datasets/austinhinkel/gaia-dr3-data-for-comparing-two-star-clusters) |
 | Exoplanet Catalog Search | TBA | TBA | TBA |
-| Hubble's Law | TBA | TBA | TBA |
+| Hubble's Law | [Hubble's Law Assignment](../Labs/HubblesLaw/Lab_HubblesLaw.pdf) | [Hubble's Law Template Notebook](https://www.kaggle.com/code/austinhinkel/hubbleslawtemplate) | [Hubble's Law Data Set](https://www.kaggle.com/datasets/austinhinkel/hubble-law-astronomy-lab) |
 | TBA | TBA | TBA | TBA |
 | TBA | TBA | TBA | TBA |
 | TBA | TBA | TBA | TBA |
