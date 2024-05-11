@@ -1,6 +1,6 @@
 # Assignments, Organized by Topics
 
-testing... work in progress...
+work in progress...
 
 
 | Topic | Assignment | Notebook/Spreadsheet Template | Data Set |
