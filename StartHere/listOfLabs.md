@@ -1,4 +1,4 @@
-# Assignments, Organized by Topics
+# Lab Assignments, Organized by Topics
 
 work in progress...
 
