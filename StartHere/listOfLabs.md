@@ -6,7 +6,7 @@ work in progress...
 | Topic | Assignment | Notebook/Spreadsheet Template | Data Set |
 |-------|------------|----------|----------|
 |Scale Models| [Scale Model Assignment](../Labs/ScaleModelExcelTutorial/Lab_ScaleModelSpreadsheetIntro.pdf) | [Scale Model Excel Template](../Labs/ScaleModelExcelTutorial/scaleModelExcelTemplate.xlsx) | none |
-| Kepler's Laws (Moons of Jupiter) | TBA | TBA | none |
+| Kepler's Laws (Moons of Jupiter) | [Moons of Jupiter Assignment](../Labs/MoonsOfJupiterExcel/Lab_MoonsOfJupiterStellarium.pdf) | [Moons of Jupiter Excel Template](../Labs/MoonsOfJupiterExcel/moonsOfJupiterTemplate.xlsx) | none |
 | Intro to Python | [Intro to Python Assignment](../Labs/introToPython/Lab_introPython.pdf) | [Intro Notebook](../Labs/introToPython/intropythontutorial.ipynb) | none |
 | Control Flow with the Collatz Conjecture | [Control Flow Assignment](../Labs/ControlFlowCollatz/Lab_controlFlowCollatz.pdf) | none | none |
 | Stellar Evolution and the Interstellar Medium | [Stellar Life and Death Assignment](../Labs/StellarLifeCycleSimulation/Lab_StarFormationAndDeath.pdf) | [Galactic Gas Cycle Simulation Notebook](https://www.kaggle.com/code/austinhinkel/stellarlifecyclessimulation) | none |
