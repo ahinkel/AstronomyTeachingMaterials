@@ -15,8 +15,7 @@ work in progress...
 | Exoplanet Catalog Search | TBA | TBA | TBA |
 | Hubble's Law | [Hubble's Law Assignment](../Labs/HubblesLaw/Lab_HubblesLaw.pdf) | [Hubble's Law Template Notebook](https://www.kaggle.com/code/austinhinkel/hubbleslawtemplate) | [Hubble's Law Data Set](https://www.kaggle.com/datasets/austinhinkel/hubble-law-astronomy-lab) |
 | TBA | TBA | TBA | TBA |
-| TBA | TBA | TBA | TBA |
-| TBA | TBA | TBA | TBA |
+
 
 
 
