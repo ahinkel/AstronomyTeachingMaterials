@@ -22,7 +22,7 @@ With earlier, course-based research experiences shown to increase retention and 
 
 ## Funding and Acknowledgements:
 This open-source repository of course material was created with support from the following:
-- This material is based upon work supported by NASA Kentucky Space Grant Consortium under NASA award 80NSSC20M0047![image](https://github.com/ahinkel/AstronomyTeachingMaterials/assets/93750358/25ee0dfb-ea4a-4fdb-b71c-e98dea6bbdbe)
+- This material is based upon work supported by NASA Kentucky Space Grant Consortium under NASA award 80NSSC20M0047
 - Thomas More University
 
 
