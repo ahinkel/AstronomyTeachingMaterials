@@ -1,11 +1,19 @@
-# Course Outline
+# Course Information
 
-coming soon...
 
 ## What you'll need:
 - Textbook:  I plan to follow *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal, but any subset of course materials can be adopted to fit your course.
 - Access to a computer with internet connection and Microsoft Excel
 - [Kaggle account](https://www.kaggle.com)
+
+
+## List of Data/Programming Labs for Educators: 
+[List of Labs](../StartHere/listOfLabs.md)
+
+
+## List of Data/Programming Homework Assignments for Educators: 
+[Homework Assignment List](../StartHere/listOfHomework.md)
+
 
 ## Course Schedule:
 
