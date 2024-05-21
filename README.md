@@ -25,6 +25,7 @@ This open-source repository of course material was created with support from the
 - This material is based upon work supported by NASA Kentucky Space Grant Consortium under NASA award 80NSSC20M0047
 - Thomas More University
 
+![NASA-KY Logo](http://nasa.engr.uky.edu/wp-content/uploads/2020/11/NASA-Ky-color-with-space-grant-small-270-transp.png)
 
 ## License Info:
 All software is available under an MIT License, while all of my course materials are available under a [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/) unless otherwise noted.
