@@ -12,7 +12,7 @@ work in progress...
 | Stellar Evolution and the Interstellar Medium | [Stellar Life and Death Assignment](../Labs/StellarLifeCycleSimulation/Lab_StarFormationAndDeath.pdf) | [Galactic Gas Cycle Simulation Notebook](https://www.kaggle.com/code/austinhinkel/stellarlifecyclessimulation) | none |
 |The Milky Way| [Map the Milky Way Assignment](../Labs/MapOfLocalGalaxy/Lab_MapNearbyMilkyWay.pdf) | [Map the Milky Way Template Notebook](https://www.kaggle.com/code/austinhinkel/plottingtutorial-mapthelocalmilkyway) |[Map the Milky Way Data Set](https://www.kaggle.com/datasets/austinhinkel/galacticcoordswithgaia)|
 |Color-Magnitude Diagrams| [Color Magnitude Diagram Assignment](../Labs/GaiaColorMagnitudeLab/Lab_TwoClustersCMD.pdf) | [Star Cluster Notebook Template](https://www.kaggle.com/code/austinhinkel/twoclustercmd-template) | [Star Cluster Data Set](https://www.kaggle.com/datasets/austinhinkel/gaia-dr3-data-for-comparing-two-star-clusters) |
-| Exoplanet Catalog Search | TBA | TBA | TBA |
+| Exoplanet Catalog Search, Sort | [Exoplanet Search and Sort Assignment](../Labs/ExploringExoplanetData/CuttingData_TEPCAT.pdf) | none | [Transiting Exoplanet Dataset](https://www.kaggle.com/datasets/austinhinkel/transiting-exoplanets-selected-system-properties) |
 | Hubble's Law | [Hubble's Law Assignment](../Labs/HubblesLaw/Lab_HubblesLaw.pdf) | [Hubble's Law Template Notebook](https://www.kaggle.com/code/austinhinkel/hubbleslawtemplate) | [Hubble's Law Data Set](https://www.kaggle.com/datasets/austinhinkel/hubble-law-astronomy-lab) |
 | TBA | TBA | TBA | TBA |
 
