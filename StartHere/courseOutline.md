@@ -98,12 +98,12 @@
 
 ### Unit 8:  Our Solar System's Star: The Sun
 - Reading: Skim Chapter 11 of *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal
-- Lab Assignment: 
-- Lab Data: 
-- Lab Template: 
-- Programming Homework: 
-- Homework Data:
-- Homework Template: 
+- Lab Assignment: [Solar Rotation Rate Assignment](../Labs/SolarRotationRate/Lab_SunspotTracking.pdf)
+- Lab Data: (collected during lab)
+- Lab Template: [Sunspot Excel Template](Labs/SolarRotationRate/Lab_SunRotationTemplate.xlsx)
+- Programming Homework: none.
+- Homework Data: none.
+- Homework Template: none.
 
 
 ### Unit 9:  Evolution of Stars
