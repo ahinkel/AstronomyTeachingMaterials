@@ -97,7 +97,7 @@
 
 
 ### Unit 8:  Our Solar System's Star: The Sun
-- Reading: Chapter 11 of *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal
+- Reading: Skim Chapter 11 of *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal
 - Lab Assignment: 
 - Lab Data: 
 - Lab Template: 
