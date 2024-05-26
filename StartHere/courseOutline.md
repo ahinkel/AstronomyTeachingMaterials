@@ -79,11 +79,11 @@
 
 ### Unit 7:  Stars
 - Reading: Chapter 10 of *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal
-- Lab Assignment: 
-- Lab Data: 
-- Lab Template: 
-- Programming Homework: [Control Flow Assignment](../ProgrammingHomework/ControlFlow/HW_controlFlow.pdf)
-- Homework Data: none.
+- Lab Assignment: [Control Flow Assignment](../ProgrammingHomework/ControlFlow/HW_controlFlow.pdf)
+- Lab Data: none.
+- Lab Template: none.
+- Programming Homework: [Distance to 47 Tuc Assignment](../ProgrammingHomework/CutsAndDataViz2_47TucGlobularCluster/HW_dataVizAndCuts_II.pdf)
+- Homework Data: [Globular Cluster 47 Tucanae Data](https://www.kaggle.com/datasets/austinhinkel/47tuc-globular-cluster-line-of-sight-rand-subset)
 - Homework Template: none.
 
 
