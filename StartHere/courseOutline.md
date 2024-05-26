@@ -19,9 +19,9 @@
 
 ### Unit 1:  Cosmic Context:  Humanity's Place in the Cosmos
 - Reading: Chapter 1 of *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal
-- Lab Assignment: [Lab_ScaleModelSpreadsheetIntro.pdf](../Labs/ScaleModelExcelTutorial/Lab_ScaleModelSpreadsheetIntro.pdf)
+- Lab Assignment: [Scale Model Assignment](../Labs/ScaleModelExcelTutorial/Lab_ScaleModelSpreadsheetIntro.pdf)
 - Lab Data: (see template)
-- Lab Template: [scaleModelExcelTemplate.xlsx](../Labs/ScaleModelExcelTutorial/scaleModelExcelTemplate.xlsx)
+- Lab Template: [Scale Model Excel Template](../Labs/ScaleModelExcelTutorial/scaleModelExcelTemplate.xlsx)
 - Programming Homework: [Unit Conversion Excel Assignment](../ProgrammingHomework/UnitConversionsExcel/HW_UnitConversions.pdf)
 - Homework Data: (see template)
 - Homework Template: [Unit Conversion Excel Template](../ProgrammingHomework/UnitConversionsExcel/UnitConversionTemplate.xlsx)
@@ -33,18 +33,18 @@
 - Lab Data: 
 - Lab Template: 
 - Programming Homework: 
-- Homework Data:
+- Homework Data: 
 - Homework Template: 
 
 
 ### Unit 3:  Laws of Motion
 - Reading: Chapter 3 of *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal
-- Lab Assignment: 
-- Lab Data: 
-- Lab Template: 
-- Programming Homework: 
-- Homework Data:
-- Homework Template: 
+- Lab Assignment: [Moons of Jupiter Assignment](../Labs/MoonsOfJupiterExcel/Lab_MoonsOfJupiterStellarium.pdf)
+- Lab Data: none.
+- Lab Template: [Moons of Jupiter Excel Template](../Labs/MoonsOfJupiterExcel/moonsOfJupiterTemplate.xlsx)
+- Programming Homework: [Kepler's Laws and Excel Formulae Assignment](../ProgrammingHomework/ExcelFormulaeKeplersLaws/HW_KeplerExcel.pdf)
+- Homework Data: (see template)
+- Homework Template: [Kepler's Laws Spreadsheet Template](../ProgrammingHomework/ExcelFormulaeKeplersLaws/Trappist1_template.xlsx)
 
 
 ### Unit 4:  Light and Telescopes
@@ -85,6 +85,7 @@
 - Programming Homework: 
 - Homework Data:
 - Homework Template: 
+
 
 ### Midterm Project:
 - Project Assignment: (Exoplanet characterization project, TBA)
@@ -127,22 +128,17 @@
 
 ### Unit 11:  The Universe
 - Reading: Chapter 16 of *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal
-- Lab Assignment: 
-- Lab Data: 
-- Lab Template: 
-- Programming Homework: 
-- Homework Data:
-- Homework Template: 
+- Lab Assignment: [Hubble's Law Assignment](../Labs/HubblesLaw/Lab_HubblesLaw.pdf)
+- Lab Data: [Hubble's Law Data Set](https://www.kaggle.com/datasets/austinhinkel/hubble-law-astronomy-lab)
+- Lab Template: [Hubble's Law Template Notebook](https://www.kaggle.com/code/austinhinkel/hubbleslawtemplate)
+- Programming Homework: [TNG50 Cosmological Simulation Assignment](../ProgrammingHomework/CutsAndDataViz1_TNG50Simulation/HW_dataVizAndCuts_I.pdf)
+- Homework Data:  [Cosmological Simulation Data](https://www.kaggle.com/datasets/austinhinkel/cosmology-simulation-data-from-illustris-tng-50)
+- Homework Template: [Visualizing Cosmological Structure Starter Notebook](https://www.kaggle.com/code/austinhinkel/gettingstartedwithtng50data)
 
 
 ### Unit 12:  Life in the Universe
 - Reading: Chapter 18 of *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal
-- Lab Assignment: 
-- Lab Data: 
-- Lab Template: 
-- Programming Homework: 
-- Homework Data:
-- Homework Template: 
+
 
 
 ### Final Project Due
