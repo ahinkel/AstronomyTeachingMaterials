@@ -40,7 +40,7 @@
 ### Unit 3:  Laws of Motion
 - Reading: Chapter 3 of *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal
 - Lab Assignment: [Moons of Jupiter Assignment](../Labs/MoonsOfJupiterExcel/Lab_MoonsOfJupiterStellarium.pdf)
-- Lab Data: none.
+- Lab Data: (collected during lab)
 - Lab Template: [Moons of Jupiter Excel Template](../Labs/MoonsOfJupiterExcel/moonsOfJupiterTemplate.xlsx)
 - Programming Homework: [Kepler's Laws and Excel Formulae Assignment](../ProgrammingHomework/ExcelFormulaeKeplersLaws/HW_KeplerExcel.pdf)
 - Homework Data: (see template)
@@ -49,29 +49,29 @@
 
 ### Unit 4:  Light and Telescopes
 - Reading: Chapter 4 of *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal
-- Lab Assignment: 
-- Lab Data: 
-- Lab Template: 
-- Programming Homework: 
-- Homework Data:
-- Homework Template: 
+- Lab Assignment: [Control Flow Assignment](../Labs/ControlFlowCollatz/Lab_controlFlowCollatz.pdf)
+- Lab Data: none.
+- Lab Template: none.
+- Programming Homework: [For Loop Assignment](../ProgrammingHomework/ForLoopScaleModel/HW_forLoopScaleModel.pdf)
+- Homework Data: none.
+- Homework Template: none.
   
 
 ### Unit 5:  The Formation of the Stars and Planets
 - Reading: Chapter 5 of *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal
-- Lab Assignment: 
-- Lab Data: 
-- Lab Template: 
+- Lab Assignment: [Stellar Life and Death Assignment](../Labs/StellarLifeCycleSimulation/Lab_StarFormationAndDeath.pdf)
+- Lab Data: none.
+- Lab Template: [Galactic Gas Cycle Simulation Notebook](https://www.kaggle.com/code/austinhinkel/stellarlifecyclessimulation)
 - Programming Homework: 
-- Homework Data:
+- Homework Data: 
 - Homework Template: 
 
 
 ### Unit 6:  Exoplanets
 - Reading: Chapter 5 of *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal
-- Lab Assignment: 
-- Lab Data: 
-- Lab Template: 
+- Lab Assignment: [Exoplanet Search and Sort Assignment](../Labs/ExploringExoplanetData/CuttingData_TEPCAT.pdf)
+- Lab Data: [Transiting Exoplanet Dataset](https://www.kaggle.com/datasets/austinhinkel/transiting-exoplanets-selected-system-properties)
+- Lab Template: none.
 - Programming Homework: 
 - Homework Data:
 - Homework Template: 
@@ -118,9 +118,9 @@
 
 ### Unit 10:  Galaxies, The Milky Way, and Dark Matter
 - Reading: Skim Chapters 14-15 of *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal
-- Lab Assignment: [Stellar Life and Death Assignment](../Labs/StellarLifeCycleSimulation/Lab_StarFormationAndDeath.pdf)
+- Lab Assignment: 
 - Lab Data: none.
-- Lab Template: [Galactic Gas Cycle Simulation Notebook](https://www.kaggle.com/code/austinhinkel/stellarlifecyclessimulation)
+- Lab Template: 
 - Programming Homework: 
 - Homework Data:
 - Homework Template: 
