@@ -62,9 +62,9 @@
 - Lab Assignment: [Stellar Life and Death Assignment](../Labs/StellarLifeCycleSimulation/Lab_StarFormationAndDeath.pdf)
 - Lab Data: none.
 - Lab Template: [Galactic Gas Cycle Simulation Notebook](https://www.kaggle.com/code/austinhinkel/stellarlifecyclessimulation)
-- Programming Homework: 
-- Homework Data: 
-- Homework Template: 
+- Programming Homework: [Random Walk Assignment](../ProgrammingHomework/RandomWalk/IfElseHomework.pdf)
+- Homework Data: none.
+- Homework Template: [Random Walk Starter Notebook](https://www.kaggle.com/code/austinhinkel/phy255-randomwalk)
 
 
 ### Unit 6:  Exoplanets
@@ -72,9 +72,9 @@
 - Lab Assignment: [Exoplanet Search and Sort Assignment](../Labs/ExploringExoplanetData/CuttingData_TEPCAT.pdf)
 - Lab Data: [Transiting Exoplanet Dataset](https://www.kaggle.com/datasets/austinhinkel/transiting-exoplanets-selected-system-properties)
 - Lab Template: none.
-- Programming Homework: 
-- Homework Data:
-- Homework Template: 
+- Programming Homework: [Asteroid Data Assignment](../ProgrammingHomework/AsteroidAnalysis/CuttingData_Asteroids.pdf)
+- Homework Data: [Asteroid Dataset](https://www.kaggle.com/datasets/austinhinkel/asteroid-orbital-elements-and-near-earth-object-tag)
+- Homework Template: none.
 
 
 ### Unit 7:  Stars
@@ -82,9 +82,9 @@
 - Lab Assignment: 
 - Lab Data: 
 - Lab Template: 
-- Programming Homework: 
-- Homework Data:
-- Homework Template: 
+- Programming Homework: [Control Flow Assignment](../ProgrammingHomework/ControlFlow/HW_controlFlow.pdf)
+- Homework Data: none.
+- Homework Template: none.
 
 
 ### Midterm Project:
@@ -118,9 +118,9 @@
 
 ### Unit 10:  Galaxies, The Milky Way, and Dark Matter
 - Reading: Skim Chapters 14-15 of *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal
-- Lab Assignment: 
-- Lab Data: none.
-- Lab Template: 
+- Lab Assignment: [Map the Milky Way Assignment](../Labs/MapOfLocalGalaxy/Lab_MapNearbyMilkyWay.pdf)
+- Lab Data: [Map the Milky Way Data Set](https://www.kaggle.com/datasets/austinhinkel/galacticcoordswithgaia)
+- Lab Template: [Map the Milky Way Template Notebook](https://www.kaggle.com/code/austinhinkel/plottingtutorial-mapthelocalmilkyway)
 - Programming Homework: 
 - Homework Data:
 - Homework Template: 
