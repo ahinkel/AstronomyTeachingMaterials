@@ -111,9 +111,9 @@
 - Lab Assignment: [Color Magnitude Diagram Assignment](../Labs/GaiaColorMagnitudeLab/Lab_TwoClustersCMD.pdf)
 - Lab Data: [Star Cluster Data Set](https://www.kaggle.com/datasets/austinhinkel/gaia-dr3-data-for-comparing-two-star-clusters) 
 - Lab Template: [Star Cluster Notebook Template](https://www.kaggle.com/code/austinhinkel/twoclustercmd-template)
-- Programming Homework: 
-- Homework Data:
-- Homework Template: 
+- Programming Homework: none.
+- Homework Data: none.
+- Homework Template: none.
 
 
 ### Unit 10:  Galaxies, The Milky Way, and Dark Matter
@@ -121,9 +121,9 @@
 - Lab Assignment: [Map the Milky Way Assignment](../Labs/MapOfLocalGalaxy/Lab_MapNearbyMilkyWay.pdf)
 - Lab Data: [Map the Milky Way Data Set](https://www.kaggle.com/datasets/austinhinkel/galacticcoordswithgaia)
 - Lab Template: [Map the Milky Way Template Notebook](https://www.kaggle.com/code/austinhinkel/plottingtutorial-mapthelocalmilkyway)
-- Programming Homework: 
-- Homework Data:
-- Homework Template: 
+- Programming Homework: none.
+- Homework Data: none.
+- Homework Template: none.
 
 
 ### Unit 11:  The Universe
