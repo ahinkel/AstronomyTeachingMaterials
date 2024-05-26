@@ -19,12 +19,12 @@
 
 ### Unit 1:  Cosmic Context:  Humanity's Place in the Cosmos
 - Reading: Chapter 1 of *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal
-- Lab Assignment: [Lab_ScaleModelSpreadsheetIntro.pdf](/Labs/ScaleModelExcelTutorial/Lab_ScaleModelSpreadsheetIntro.pdf)
+- Lab Assignment: [Lab_ScaleModelSpreadsheetIntro.pdf](../Labs/ScaleModelExcelTutorial/Lab_ScaleModelSpreadsheetIntro.pdf)
 - Lab Data: (see template)
-- Lab Template: [scaleModelExcelTemplate.xlsx](/Labs/ScaleModelExcelTutorial/scaleModelExcelTemplate.xlsx)
-- Programming Homework: 
-- Homework Data:
-- Homework Template: 
+- Lab Template: [scaleModelExcelTemplate.xlsx](../Labs/ScaleModelExcelTutorial/scaleModelExcelTemplate.xlsx)
+- Programming Homework: [Unit Conversion Excel Assignment](../ProgrammingHomework/UnitConversionsExcel/HW_UnitConversions.pdf)
+- Homework Data: (see template)
+- Homework Template: [Unit Conversion Excel Template](../ProgrammingHomework/UnitConversionsExcel/UnitConversionTemplate.xlsx)
 
 
 ### Unit 2:  Motions of the Earth and Moon
