@@ -29,12 +29,12 @@
 
 ### Unit 2:  Motions of the Earth and Moon
 - Reading: Chapter 2 of *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal
-- Lab Assignment: 
-- Lab Data: 
-- Lab Template: 
-- Programming Homework: 
-- Homework Data: 
-- Homework Template: 
+- Lab Assignment: [Intro to Python Assignment](../Labs/introToPython/Lab_introPython.pdf)
+- Lab Data: none.
+- Lab Template: [Intro Notebook](../Labs/introToPython/intropythontutorial.ipynb)
+- Programming Homework: none.
+- Homework Data: none.
+- Homework Template: none.
 
 
 ### Unit 3:  Laws of Motion
@@ -108,9 +108,9 @@
 
 ### Unit 9:  Evolution of Stars
 - Reading: Skim Chapters 12-13 of *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal
-- Lab Assignment: 
-- Lab Data: 
-- Lab Template: 
+- Lab Assignment: [Color Magnitude Diagram Assignment](../Labs/GaiaColorMagnitudeLab/Lab_TwoClustersCMD.pdf)
+- Lab Data: [Star Cluster Data Set](https://www.kaggle.com/datasets/austinhinkel/gaia-dr3-data-for-comparing-two-star-clusters) 
+- Lab Template: [Star Cluster Notebook Template](https://www.kaggle.com/code/austinhinkel/twoclustercmd-template)
 - Programming Homework: 
 - Homework Data:
 - Homework Template: 
@@ -118,9 +118,9 @@
 
 ### Unit 10:  Galaxies, The Milky Way, and Dark Matter
 - Reading: Skim Chapters 14-15 of *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal
-- Lab Assignment: 
-- Lab Data: 
-- Lab Template: 
+- Lab Assignment: [Stellar Life and Death Assignment](../Labs/StellarLifeCycleSimulation/Lab_StarFormationAndDeath.pdf)
+- Lab Data: none.
+- Lab Template: [Galactic Gas Cycle Simulation Notebook](https://www.kaggle.com/code/austinhinkel/stellarlifecyclessimulation)
 - Programming Homework: 
 - Homework Data:
 - Homework Template: 
