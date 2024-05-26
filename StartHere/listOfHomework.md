@@ -1,7 +1,5 @@
 # Homework Assignments, Organized by Topics
 
-work in progress...
-
 
 | Topic | Assignment | Notebook/Spreadsheet Template | Data Set |
 |-------|------------|----------|----------|
