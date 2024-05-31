@@ -1,9 +1,8 @@
 # Astronomy Teaching Materials
 Some teaching materials I have developed for a college Introductory Astronomy course at [Thomas More University](https://www.thomasmore.edu/) aimed at developing the data and programming skills of first- and second-year students.  Raw datasets are available in this repository and are also available on Kaggle.
 
-More info is available in README files in each directory/folder.
+More info is available in the StartHere directory and the README files in each directory/folder.
 
-**This course is under development in the Spring 2024 semester.  More info TBA**
 
 
 ## Quick Start:
