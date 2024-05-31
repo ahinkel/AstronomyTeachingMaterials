@@ -89,11 +89,11 @@
 
 
 ### Midterm Project:
-- Project Assignment: (Exoplanet characterization project, TBA)
+- Project Assignment: data design project
 
 
 ### Final Project Introduced:
-- Project Assignment: (light pollution interdisciplinary project, TBA)
+- Project Assignment: light pollution interdisciplinary project
 - Undergraduate research 101
 
 
