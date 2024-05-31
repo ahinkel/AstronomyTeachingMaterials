@@ -5,6 +5,7 @@
 - Textbook:  I plan to follow *Understanding Our Universe*, Fourth Edition, by Stacy Palen and George Blumenthal, but any subset of course materials can be adopted to fit your course.
 - Access to a computer with internet connection and Microsoft Excel
 - [Kaggle account](https://www.kaggle.com)
+- One lab uses the Stellarium software, which can be downloaded for free [here.](https://stellarium.org/)
 
 
 ## List of Data/Programming Labs for Educators: 
