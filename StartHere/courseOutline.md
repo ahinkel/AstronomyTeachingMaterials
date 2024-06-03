@@ -122,9 +122,9 @@
 - Lab Assignment: [Map the Milky Way Assignment](../Labs/MapOfLocalGalaxy/Lab_MapNearbyMilkyWay.pdf)
 - Lab Data: [Map the Milky Way Data Set](https://www.kaggle.com/datasets/austinhinkel/galacticcoordswithgaia)
 - Lab Template: [Map the Milky Way Template Notebook](https://www.kaggle.com/code/austinhinkel/plottingtutorial-mapthelocalmilkyway)
-- Programming Homework: none.
-- Homework Data: none.
-- Homework Template: none.
+- Lab Assignment: [Galactic Gas Cycle Lab](../Labs/StellarLifeCycleSimulation/Lab_StarFormationAndDeath.pdf)
+- Lab Data: none.
+- Lab Template: [Galactic Gas Cycle Starter Notebook](https://www.kaggle.com/code/austinhinkel/stellarlifecyclessimulation)
 
 
 ### Unit 11:  The Universe
